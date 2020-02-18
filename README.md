@@ -1,5 +1,5 @@
 # PANADERÍA EL FORO
 
-Website: https://martaquintana.github.io/panaderia-elforo/panaderia-el-foro/
+Website: https://martaquintana.github.io/tienda/panaderia-el-foro/
 
 Work done by Marta Quintana 
