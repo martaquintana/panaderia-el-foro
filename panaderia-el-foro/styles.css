@@ -123,3 +123,18 @@
 #gallegas{
   float: left;
 }
+.boton_init{
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #FBBA00;
+    border-radius: 6px;
+    border: 2px solid #FDAA00;
+  }
+  .boton_init:hover{
+    color:  #FBBA00;;
+    background-color: #ffffff;
+  }
